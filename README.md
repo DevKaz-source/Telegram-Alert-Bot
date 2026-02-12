@@ -51,7 +51,7 @@ A simple Python bot to send alerts and notifications via Telegram. Inspired by r
 Bot Sending Message Demo
 ![Demo do Bot Enviando Mensagem](demo.png)
 
-## Freelance / Hire MeNeed 
-a custom Telegram bot for your business?
+## Freelance / Hire Me
+Need a custom Telegram bot for your business?
 Hire me on Fiverr: https://www.fiverr.com/s/yvQQPbA
 Contact on X: @Devkaz_License: MIT (free for educational/portfolio use)
