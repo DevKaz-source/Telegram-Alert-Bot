@@ -31,8 +31,7 @@ A simple Python bot to send alerts and notifications via Telegram. Inspired by r
    ```bash
    python bot.py
 
-1. ## Code Example (bot.py)
-
+## Code Example (bot.py)
    ```python
    from telegram import Bot
    import asyncio
@@ -46,8 +45,8 @@ A simple Python bot to send alerts and notifications via Telegram. Inspired by r
 
    if __name__ == "__main__":
        asyncio.run(send_alert("Test alert: Low productivity detected!"))
-
-**## Demo**
+   ```
+## Demo
 Bot Sending Message Demo (Test it yourself with the code above!)
 ![Demo do Bot Enviando Mensagem](demo.png)
 
