@@ -53,4 +53,4 @@ Bot Sending Message Demo (Test it yourself with the code above!)
 ## Freelance / Hire Me
 Need a custom Telegram bot for your business?
 Hire me on Fiverr: https://www.fiverr.com/s/yvQQPbA
-Contact on X: @Devkaz_License: MIT (free for educational/portfolio use)
+Contact on X: @Devkaz_ License: MIT (free for educational/portfolio use)
