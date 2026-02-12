@@ -1,15 +1,15 @@
 # Telegram Alert Bot
 
-Bot simples em Python para enviar alertas e notificações via Telegram. Inspirado em projetos reais de gestão de equipes (ex.: alertas de produtividade).
+Bot simples em Python para enviar alertas e notificações via Telegram. Inspirado em projetos reais de gestão de equipes (ex.: alertas de produtividade na Energisa/MS).
 
 ## Funcionalidades
 - Envio automático de mensagens para usuários ou grupos
-- Pode ser usado para: alertas de vendas, lembretes, monitoramento de tarefas, notificações de erros
+- Ideal para: alertas de vendas, lembretes, monitoramento de tarefas, notificações de erros
 - Fácil de customizar e integrar com outras ferramentas
 
 ## Tecnologias
 - Python 3.8+
-- Biblioteca: [python-telegram-bot](https://python-telegram-bot.readthedocs.io/)
+- Biblioteca principal: [python-telegram-bot](https://python-telegram-bot.readthedocs.io/)
 
 ## Como Instalar e Rodar
 1. Clone o repositório:
