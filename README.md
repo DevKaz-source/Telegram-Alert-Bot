@@ -17,7 +17,7 @@ Bot simples em Python para enviar alertas e notificações via Telegram. Inspira
    git clone https://github.com/DevKaz-source/Telegram-Alert-Bot.git
    cd Telegram-Alert-Bot
 ## Demonstração
-<img width="1260" height="959" alt="image" src="https://github.com/user-attachments/assets/ebcfd049-577a-4908-8254-65f22fcd440e" />
+![Demo do Bot Enviando Mensagem](demo.png)
 
 ## Contato / Freelance
 Quer um bot personalizado para o seu negócio?
