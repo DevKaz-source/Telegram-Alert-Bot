@@ -48,7 +48,7 @@ A simple Python bot to send alerts and notifications via Telegram. Inspired by r
        asyncio.run(send_alert("Test alert: Low productivity detected!"))
 
 **## Demo**
-Bot Sending Message Demo
+Bot Sending Message Demo (Test it yourself with the code above!)
 ![Demo do Bot Enviando Mensagem](demo.png)
 
 ## Freelance / Hire Me
