@@ -1,4 +1,4 @@
-# Telegram Alert Bot
+# Bot de alertas do Telegram
 
 Bot simples em Python para enviar alertas e notificações via Telegram. Inspirado em projetos reais de gestão de equipes (ex.: alertas de produtividade na Energisa/MS).
 
